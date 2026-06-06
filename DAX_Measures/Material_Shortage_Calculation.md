@@ -16,6 +16,6 @@ VAR MatStock = SUM('Material_Inv_F'[Quantity])
 // 3. Calculate Variance
 VAR Shortage = TotalTarget - MatStock
 
-// Return the absolute magnitude of the shortage/variance
+// Return the absolute value of the shortage
 RETURN
     ABS(Shortage)
