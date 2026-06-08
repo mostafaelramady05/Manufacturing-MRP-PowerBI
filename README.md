@@ -3,6 +3,13 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-Star_Schema-success?style=for-the-badge)
+[![Live Dashboard](https://img.shields.io/badge/Live_Demo-Click_Here-2563eb?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiYjM3ZWNjNjctMjUwYi00NGQzLTk5NjItNzQzODBiNDc0YzNhIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
+<br>
+
+<video src="Project_Images/mrp-system-preview.mp4" controls="controls" width="100%"></video>
+
+---
 
 ## 📌 Project Overview
 This repository showcases an advanced Power BI solution designed to streamline manufacturing operations and bridge the gap between production planning and inventory management. 
